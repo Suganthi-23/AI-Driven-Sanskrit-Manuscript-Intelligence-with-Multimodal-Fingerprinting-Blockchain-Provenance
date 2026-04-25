@@ -1,0 +1,2 @@
+# AI-Driven-Sanskrit-Manuscript-Intelligence-with-Multimodal-Fingerprinting-Blockchain-Provenance
+I designed a Multimodal AI system for Sanskrit manuscripts, overcoming OCR-only limits. I built fingerprinting using visual and textual signals for variant linking and similarity discovery, and integrated a tamper-resistant provenance layer to ensure authenticity, traceability, and scalable manuscript intelligence.
