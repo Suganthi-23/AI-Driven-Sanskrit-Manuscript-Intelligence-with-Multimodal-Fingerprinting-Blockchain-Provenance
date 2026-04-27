@@ -1,4 +1,4 @@
-# AI-Driven-Sanskrit-Manuscript-Intelligence-with-Multimodal-Fingerprinting-Blockchain-Provenance
+# AI-Driven-Sanskrit-Manuscript-Intelligence-with-Multimodal-Fingerprinting-Provenance
 This project solves a core limitation in Sanskrit manuscript digitization, where existing systems are restricted to OCR-based text extraction and static archival, with no reliable way to compare variants, establish authenticity, or build structured knowledge from manuscripts.
 
 To address this, I developed a multimodal AI-driven system that transforms raw manuscript data into an intelligent and verifiable knowledge framework. The system introduces a novel manuscript fingerprinting approach that combines visual and textual signals, enabling accurate identification, similarity discovery, and cross-referencing of manuscript variants across collections.
